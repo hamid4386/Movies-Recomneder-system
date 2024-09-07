@@ -71,3 +71,4 @@ if st.button('Recommend'):
     with col10:
         st.image(recommended_movie_posters[9])
         st.text(recommended_movies[9])
+st.write('Made By Hamid')
